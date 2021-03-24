@@ -12,5 +12,8 @@ body{
 .nav-menu-item{
 display: flex;
 }
+ul {
+	list-style: none;
+}
 
 
