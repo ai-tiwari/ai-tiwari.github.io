@@ -1,6 +1,5 @@
 body{
  font: Arial, Helvetica, Sans-Serif ;
- margin: auto;
 }
 
 .header{
@@ -14,13 +13,12 @@ display: flex;
 }
 ul {
 	list-style: none;
+	display: flex;
 }
 
 .nav-menu li {
-	display:block;
-	width:120px;
+
 	float:left;
-	margin:auto;
 	
 }
 
