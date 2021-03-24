@@ -1,8 +1,10 @@
 body{
  font: Arial, Helvetica, Sans-Serif ;
- margin: auto;
 }
 
+.header_{
+margin: auto;
+}
 .nav-menu-item{
 display: flex;
 }
