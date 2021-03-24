@@ -1,10 +1,16 @@
 body{
  font: Arial, Helvetica, Sans-Serif ;
+ margin: auto;
 }
 
 .header{
-margin: auto;
+
+ display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .nav-menu-item{
 display: flex;
 }
+
+
