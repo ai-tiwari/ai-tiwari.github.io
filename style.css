@@ -15,6 +15,9 @@ ul {
 	list-style: none;
 	display: flex;
 }
+a{
+	text-decoartion:none;
+}
 
 .nav-menu li {
 	margin: auto;
