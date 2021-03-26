@@ -3,7 +3,8 @@ body{
 }
 
 .header{
-
+ background-color: lavender;
+    color: lime;
  display: flex;
   justify-content: center;
   align-items: center;
@@ -17,6 +18,8 @@ background-color: lavender;
 ul {
 	list-style: none;
 	display: flex;
+	padding: 30px;
+	margin: 0px;
 }
 a{
 	text-decoration: none;
