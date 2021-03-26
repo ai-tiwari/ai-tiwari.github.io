@@ -11,12 +11,17 @@ body{
 .nav-menu-item{
 display: flex;
 }
+.nav-menu{
+background-color: lavender;
+}
 ul {
 	list-style: none;
 	display: flex;
 }
 a{
-	text-decoration:none;
+	text-decoration: none;
+	color: limegreen;
+	font-size: larger;
 }
 
 .nav-menu li {
