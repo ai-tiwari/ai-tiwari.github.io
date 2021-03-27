@@ -18,18 +18,17 @@ background-color: lavender;
 ul {
 	list-style: none;
 	display: flex;
-	padding: 30px;
-	margin: 0px;
+ 	padding: 23px;
 }
 a{
 	text-decoration: none;
-	color: limegreen;
+	color: lime;
 	font-size: larger;
 }
 
 .nav-menu li {
-	margin: auto;
-	float:left;
+	margin-right: 60px;
+/* 	float:left; */
 	
 }
 
