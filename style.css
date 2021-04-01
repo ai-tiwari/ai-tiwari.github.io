@@ -16,9 +16,11 @@ display: flex;
 .nav-menu{
 background-color: lavender;
 }
+header ul{
+  display: flex;
+}
 ul {
-	list-style: none;
-	display: flex;
+	list-style: none;	
  	padding: 23px;
 }
 a{
