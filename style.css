@@ -19,6 +19,9 @@ background-color: lavender;
 header ul{
   display: flex;
 }
+.element{
+  float: left;
+}
 ul {
 	list-style: none;	
  	padding: 23px;
