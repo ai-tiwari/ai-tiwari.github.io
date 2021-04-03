@@ -21,6 +21,7 @@ header ul{
 }
 .element{
   float: left;
+  line-height: 1.5;
 }
 ul {
 	list-style: none;	
