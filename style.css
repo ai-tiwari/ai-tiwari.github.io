@@ -21,6 +21,9 @@ font-weight: bold;
 header ul{
   display: flex;
 }
+.container{
+overflow: auto;
+}
 .element{
   float: left;
   line-height: 1.5;
