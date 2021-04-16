@@ -23,8 +23,6 @@ header ul{
 }
 .container{
 overflow: auto;
-display: flex;
-  justify-content: center;
 }
 .element{
   float: left;
@@ -63,6 +61,11 @@ hr{
 	margin-right: 60px;
 /* 	float:left; */
 	
+}
+
+.col-md-4{
+margin-left: 30px;
+margin-right: 200px;
 }
 
 
