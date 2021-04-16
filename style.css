@@ -23,6 +23,8 @@ header ul{
 }
 .container{
 overflow: auto;
+display: flex;
+  justify-content: center;
 }
 .element{
   float: left;
