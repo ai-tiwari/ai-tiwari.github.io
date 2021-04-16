@@ -41,6 +41,22 @@ a{
 	font-size: medium;
 	letter-spacing: 0.08em;
 }
+.paper{
+	color:black;
+	font-size: medium;
+	letter-spacing: 0.08em;
+	line-height: 1.5;
+}
+
+hr{
+    opacity: 0.0875;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 1px;
+    background-color: currentColor;
+}
 
 .nav-menu li {
 	margin-right: 60px;
