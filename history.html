@@ -11,8 +11,8 @@
            lines = data.split("\n");
           for(var i=0;i<lines.length;i++){
             line = lines[0].split("|");
-            $("paper").html("<a class='col-md-4'>" + line[0] + "</a>
-          <a href='"+line[1] +"'>" + line[2] +"</a>")
+            $("paper").html('<a class="col-md-4">' + line[0] + '</a>
+          <a href="'+line[1] +'">' + line[2] +'</a>');
             
           }
         });
