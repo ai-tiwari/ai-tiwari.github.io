@@ -11,7 +11,7 @@
            lines = data.split("\n");
           for(var i=0;i<lines.length;i++){
             line = lines[0].split("|");
-            var htmlCode = '<a class="col-md-4">';
+            var htmlCode = $('<a class="col-md-4">');
             htmlCode.append(line[0]);
             htmlCode.append('</a><a href="');
             htmlCode.append(line[1]);
