@@ -19,14 +19,16 @@
 //              htmlCode.append(line[2]);
 //             htmlCode.append('</a>');
 //             alert(htmlCode);
-            $(".paper").append('<a class="col-md-4">');
-            $(".paper").append(line[0]);
-            $(".paper").append('</a><a href="');
-            $(".paper").append(line[1]);
-            $(".paper").append('">');
-            $(".paper").append(line[2]);
-            $(".paper").append('</a>');
+            $(".element").append('<div class="paper">');
             
+            $(".element").append('<a class="col-md-4">');
+            $(".element").append(line[0]);
+            $(".element").append('</a><a href="');
+            $(".element").append(line[1]);
+            $(".element").append('">');
+            $(".element").append(line[2]);
+            $(".element").append('</a>');
+            $(".element").append('</div>');
           }
         });
     })
@@ -62,6 +64,7 @@
           <a href="https://www.csee.umbc.edu/courses/471/papers/turing.pdf">Computing Machinery and Intelligence</a>
         </div>
         <hr>
+        
          <div class="paper">
           <a class="col-md-4">Frank RosenBlatt, 1957</a>
           <a href="https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf">The Perceptron — A Perceiving and Recognizing Automaton</a>
