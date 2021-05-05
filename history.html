@@ -6,9 +6,11 @@
 </head>
 <body>
   <script>
-  $jquery.get("papers.csv", function(data){
-  alert(data);
-  })
+    jQuery(document).ready(function($) {
+        $jquery.get("papers.csv", function(data){
+        alert(data);
+        });
+    })
   </script>
 <header>
     <nav>
