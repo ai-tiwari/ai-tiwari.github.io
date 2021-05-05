@@ -67,6 +67,13 @@ hr{
 margin-left: 30px;
 width: 400px;
 display: inline-block;
+text-overflow: ellipsis;
+overflow: hidden;
+white-space: nowrap;
+}
+
+.col-md-4:hover{
+ overflow:visible;
 }
 
 
