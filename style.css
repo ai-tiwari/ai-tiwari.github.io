@@ -70,10 +70,12 @@ display: inline-block;
 text-overflow: ellipsis;
 overflow: hidden;
 white-space: nowrap;
+vertical-align: middle;
 }
 
 .col-md-4:hover{
  overflow:visible;
+ white-space: normal;
 }
 
 
