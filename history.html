@@ -8,10 +8,11 @@
   <script>
     $(document).ready(function() {
         $.get("papers.csv", function(data){
-         
-          
-          line = data.split("\n");
-          alert(line[0]);
+           lines = data.split("\n");
+          for(var i=0;i<lines.length;i++){
+            line = lines[0].split("|");
+            alert(line[0]);
+          }
         });
     })
   </script>
