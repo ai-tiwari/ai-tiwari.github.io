@@ -21,14 +21,14 @@
 //             alert(htmlCode);
             $(".element").append('<div class="paper">');
             
-            $(".element").append('<a class="col-md-4">');
-            $(".element").append(line[0]);
-            $(".element").append('</a><a href="');
-            $(".element").append(line[1]);
-            $(".element").append('">');
-            $(".element").append(line[2]);
-            $(".element").append('</a>');
-            $(".element").append('</div>');
+            $(".paper").append('<a class="col-md-4">');
+            $(".col-md-4").text(line[0]);
+            //".element").append(line[0]);
+            $(".element").append('<a class="col-md-8">');
+            $(".col-md-8").attr("href",line[1]);
+            //".element").append('">');
+            $(".col-md-8").text(line[2]);
+           //(".element").append(line[2]);
           }
         });
     })
