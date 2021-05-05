@@ -10,7 +10,8 @@
         $.get("papers.csv", function(data){
           alert(type(data));
         alert(data[0]);
-          
+          line = data[0].split("|");
+          alert(line[0]);
         });
     })
   </script>
