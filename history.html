@@ -11,8 +11,14 @@
            lines = data.split("\n");
           for(var i=0;i<lines.length;i++){
             line = lines[0].split("|");
-            $("paper").html('<a class="col-md-4">' + line[0] + '</a>
-          <a href="'+line[1] +'">' + line[2] +'</a>');
+            var htmlCode = '<a class="col-md-4">';
+            htmlCode.append(line[0]);
+            htmlCode.append('</a><a href="');
+            htmlCode.append(line[1]);
+            htmlCode.append('">');
+             htmlCode.append(line[2]);
+            htmlCode.append('</a>');
+            $("paper").html(htmlCode);
             
           }
         });
