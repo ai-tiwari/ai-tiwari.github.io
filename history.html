@@ -21,13 +21,13 @@
 //             alert(htmlCode);
             $(".element").append('<div class="paper">');
             
-            $(".paper").append('<a class="col-md-4">');
-            $(".col-md-4").text(line[0]);
+            $(".paper").append('<a id = "a'+i+'" class="col-md-4">');
+            $("a"+i).text(line[0]);
             //".element").append(line[0]);
-            $(".element").append('<a class="col-md-8">');
-            $(".col-md-8").attr("href",line[1]);
+            $(".element").append('<a id = "b'+i+'"class="col-md-8">');
+            $("#b"+i).attr("href",line[1]);
             //".element").append('">');
-            $(".col-md-8").text(line[2]);
+            $("#b"+i).text(line[2]);
            //(".element").append(line[2]);
           }
         });
