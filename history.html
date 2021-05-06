@@ -10,25 +10,19 @@
         $.get("papers.csv", function(data){
            lines = data.split("\n");
           for(var i=0;i<lines.length;i++){
-            line = lines[0].split("|");
-//             var htmlCode = $();
-//             htmlCode.append();
-//             htmlCode.append();
-//             htmlCode.append(line[1]);
-//             htmlCode.append('">');
-//              htmlCode.append(line[2]);
-//             htmlCode.append('</a>');
-//             alert(htmlCode);
+            line = lines[i].split("|");
+            
             $(".element").append('<div id  = "x'+i+'" class="paper">');
             
             $("#x"+i).append('<a id = "a'+i+'" class="col-md-4">');
             $("#a"+i).text(line[0]);
-            //".element").append(line[0]);
+
             $("#x"+i).append('<a id = "b'+i+'"class="col-md-8">');
             $("#b"+i).attr("href",line[1]);
-            //".element").append('">');
+
             $("#b"+i).text(line[2]);
            //(".element").append(line[2]);
+            $(".element").append('<hr>')
           }
         });
     })
