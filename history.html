@@ -6,28 +6,30 @@
 </head>
 <body>
   <script>
-    $(document).ready(function() {
-        $.get("papers.csv", function(data){
-           lines = data.split("\n");
-          for(var i=0;i<lines.length;i++){
-            line = lines[i].split("|");
+//     $(document).ready(function() {
+//         $.get("papers.csv", function(data){
+//            lines = data.split("\n");
+//           for(var i=0;i<lines.length;i++){
+//             line = lines[i].split("|");
             
-            $(".element").append('<div id  = "x'+i+'" class="paper">');
+//             $(".element").append('<div id  = "x'+i+'" class="paper">');
             
-            $("#x"+i).append('<a id = "a'+i+'" class="col-md-4">');
-            $("#a"+i).text(line[0]);
+//             $("#x"+i).append('<a id = "a'+i+'" class="col-md-4">');
+//             $("#a"+i).text(line[0]);
 
-            $("#x"+i).append('<a id = "b'+i+'"class="col-md-8">');
-            $("#b"+i).attr("href",line[1]);
+//             $("#x"+i).append('<a id = "b'+i+'"class="col-md-8">');
+//             $("#b"+i).attr("href",line[1]);
 
-            $("#b"+i).text(line[2]);
-           //(".element").append(line[2]);
-            $(".element").append('<hr>')
-          }
-        });
-    })
-    var xmlHttp = new XMLHttpRequest();
-    xmlHttp.onreadystatechange = function() {
+//             $("#b"+i).text(line[2]);
+//            //(".element").append(line[2]);
+//             $(".element").append('<hr>')
+//           }
+//         });
+//     })
+    
+    if(document.readyState == 'complete'){
+      var xmlHttp = new XMLHttpRequest();
+          xmlHttp.onreadystatechange = function() {
     
     if (this.readyState == 4 && this.status == 200) {
        // Typical action to be performed when the document is ready:
@@ -45,6 +47,8 @@
 };
     xmlHttp.open("GET","papers.csv",false);
     xmlHttp.send();
+    }
+
     
         
   </script>
