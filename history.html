@@ -30,7 +30,15 @@
     xmlHttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
        // Typical action to be performed when the document is ready:
-      console.log(xmlHttp.responseText);
+         var lines  = xmlHttp.responseText.split("\n");
+         for(var i=0;i<lines.length; ++i){
+         line = lines[i].split("|");
+           var divi = document.createElement('div');
+           divi.className = "paper";
+           div.id = "x"+i;
+           divi.innerHTML = '<a id = "a'+i+'" class="col-md-4">'+line[0]+ '</a>';
+           document.querySelector(".element").appendChild(divi);
+         }
       // document.getElementById("demo").innerHTML = xhttp.responseText;
     }
 };
