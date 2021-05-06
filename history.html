@@ -19,10 +19,10 @@
 //              htmlCode.append(line[2]);
 //             htmlCode.append('</a>');
 //             alert(htmlCode);
-            $(".element").append('<div class="paper">');
+            $(".element").append('<div id  = "x'+i+'" class="paper">');
             
-            $(".paper").append('<a id = "a'+i+'" class="col-md-4">');
-            $("a"+i).text(line[0]);
+            $("#x"+i).append('<a id = "a'+i+'" class="col-md-4">');
+            $("#a"+i).text(line[0]);
             //".element").append(line[0]);
             $(".element").append('<a id = "b'+i+'"class="col-md-8">');
             $("#b"+i).attr("href",line[1]);
