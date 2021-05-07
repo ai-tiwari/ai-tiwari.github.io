@@ -13,6 +13,7 @@ Yoshua Bengio 2007 | https://www.cs.toronto.edu/~hinton/science.pdf | Learning D
 R. Salakhutdinov, A. Mnih, Geoffrey E. Hinton  2007 | https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf | Restricted Boltzmann machines for collaborative filtering
 Pascal Vincent, H. Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol   2008 | https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf | Extracting and composing robust features with denoising autoencoders
 H. Lee, Roger B. Grosse, R. Ranganath, A. Ng    2009 | http://robotics.stanford.edu/~ang/papers/icml09-ConvolutionalDeepBeliefNetworks.pdf | Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations
+AlexKrizhevsky | https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf | Learning Multiple Layers of Features from Tiny Images 
 Vinod Nair, Geoffrey E. Hinton   2010 | https://www.cs.toronto.edu/~fritz/absps/reluICML.pdf | Rectified Linear Units Improve Restricted Boltzmann Machines
 Xavier Glorot, Yoshua Bengio    2010 | http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf | Understanding the difficulty of training deep feedforward neural networks
 Pascal Vincent, H. Larochelle, Isabelle Lajoie, Yoshua Bengio, Pierre-Antoine Manzagol    2010 | https://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf | Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network
@@ -20,5 +21,17 @@ Nitish Srivastava, R. Salakhutdinov 2012 | https://jmlr.org/papers/volume15/sriv
 A. Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton  2012 | https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf | ImageNet classification with deep convolutional neural networks
 Yoshua Bengio, Aaron C. Courville, Pascal Vincent Yoshua Bengio 2013 | https://arxiv.org/pdf/1206.5538.pdf | Representation Learning: A Review and New Perspectives
 Nitish Srivastava, Geoffrey E. Hinton, A. Krizhevsky, Ilya Sutskever, R. Salakhutdinov  2014 | https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf | Dropout: a simple way to prevent neural networks from overfitting
+Ross B. Girshick, J. Donahue, Trevor Darrell, J. Malik 2014 | https://arxiv.org/pdf/1311.2524.pdf |  Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation 
+Matthew D. Zeiler, R. Fergus 2014 | https://arxiv.org/pdf/1311.2901.pdf | Visualizing and Understanding Convolutional Networks 
+Ilya Sutskever, Oriol Vinyals, Quoc V. Le  2014 |  https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf | Sequence to Sequence Learning with Neural Networks 
 Diederik P. Kingma, Jimmy Ba  2015 | https://arxiv.org/pdf/1412.6980.pdf | Adam: A Method for Stochastic Optimization
 Sergey Ioffe, Christian Szegedy   2015 | http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43442.pdf | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+Kaiming He, X. Zhang, Shaoqing Ren, Jian Sun  2015 | https://arxiv.org/pdf/1502.01852.pdf | Delving Deep into Rectifiers
+Ross B. Girshick  2015 | https://arxiv.org/pdf/1504.08083.pdf | Fast R-CNN
+Christian Szegedy, W. Liu, Y. Jia, Pierre Sermanet, Scott E. Reed, Dragomir Anguelov, D. Erhan, V. Vanhoucke, Andrew Rabinovich 2015 |  https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf | Going Deeper with Convolution
+Shaoqing Ren, Kaiming He, Ross B. Girshick, J. Sun  2016 | https://arxiv.org/pdf/1506.01497.pdf | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
+W. Liu, Dragomir Anguelov, D. Erhan, Christian Szegedy, Scott E. Reed, Cheng-Yang Fu, A. Berg 2016 | https://arxiv.org/pdf/1512.02325.pdf | SSD: Single Shot MultiBox Detector
+Kaiming He, X. Zhang, Shaoqing Ren, Jian Sun  2016 | https://arxiv.org/pdf/1512.03385.pdf | Deep Residual Learning for Image Recognition 
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun 2016| https://arxiv.org/pdf/1603.05027.pdf | Identity Mappings in Deep Residual Networks 
+Gao Huang, Zhuang Liu, Kilian Q. Weinberger 2017 | https://arxiv.org/pdf/1608.06993.pdf | Densely Connected Convolutional Networks 
+Ashish Vaswani, Noam M. Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin  2017| https://arxiv.org/pdf/1706.03762.pdf | Attention Is All You Need
