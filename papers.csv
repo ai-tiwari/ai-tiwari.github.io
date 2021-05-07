@@ -1,2 +1,24 @@
 Alan Turing, 1950 | https://www.csee.umbc.edu/courses/471/papers/turing.pdf | Computing Machinery and Intelligence
 Frank RosenBlatt, 1957 | https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf | The Perceptron — A Perceiving and Recognizing Automaton
+Hinton,Rumelhart,Williams, 1986 | https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf | Learning Representaion by back-propagating errors
+K. Hornik, M. Stinchcombe, H. White  1989 | https://www.cs.cmu.edu/~epxing/Class/10715/reading/Kornick_et_al.pdf | MultiLayer Feedforward Networks are Universal Approximators
+W. McCulloch, W. Pitts  1990 | https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf | A Logical Calculus of the ideas emanent in Nervous Activity
+S. Hochreiter, J. Schmidhuber  1997 | https://www.semanticscholar.org/paper/Long-Short-Term-Memory-Hochreiter-Schmidhuber/44d2abe2175df8153f465f6c39b68b76a0d40ab9 | Long Short-Term Memory
+Y. LeCun, L. Bottou, Yoshua Bengio, P. Haffner  1998 | http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf | Gradient-based Learning Applied to Document Recognition
+Geoffrey E. Hinton  2002 | http://www.cs.toronto.edu/~fritz/absps/tr00-004.pdf | Training Products of Experts by Minimizing Contrastive Divergence
+Geoffrey E. Hinton, Simon Osindero, Y. Teh  2006 | https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf | A Fast Learning Algorithm for Deep Belief Nets
+Geoffrey E. Hinton, R. Salakhutdinov  2006 | https://www.cs.toronto.edu/~hinton/science.pdf | Reducing the Dimensionality of Data with Neural Networks
+Yoshua Bengio, Pascal Lamblin, D. Popovici, H. Larochelle   2006 | http://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/notes/hefny_Greedy.pdf | Greedy Layer-Wise Training of Deep Networks
+Yoshua Bengio 2007 | https://www.cs.toronto.edu/~hinton/science.pdf | Learning Deep Architectures for AI
+R. Salakhutdinov, A. Mnih, Geoffrey E. Hinton  2007 | https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf | Restricted Boltzmann machines for collaborative filtering
+Pascal Vincent, H. Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol   2008 | https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf | Extracting and composing robust features with denoising autoencoders
+H. Lee, Roger B. Grosse, R. Ranganath, A. Ng    2009 | http://robotics.stanford.edu/~ang/papers/icml09-ConvolutionalDeepBeliefNetworks.pdf | Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations
+Vinod Nair, Geoffrey E. Hinton   2010 | https://www.cs.toronto.edu/~fritz/absps/reluICML.pdf | Rectified Linear Units Improve Restricted Boltzmann Machines
+Xavier Glorot, Yoshua Bengio    2010 | http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf | Understanding the difficulty of training deep feedforward neural networks
+Pascal Vincent, H. Larochelle, Isabelle Lajoie, Yoshua Bengio, Pierre-Antoine Manzagol    2010 | https://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf | Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network
+Nitish Srivastava, R. Salakhutdinov 2012 | https://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf | Multimodal learning with deep Boltzmann machines
+A. Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton  2012 | https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf | ImageNet classification with deep convolutional neural networks
+Yoshua Bengio, Aaron C. Courville, Pascal Vincent Yoshua Bengio 2013 | https://arxiv.org/pdf/1206.5538.pdf | Representation Learning: A Review and New Perspectives
+Nitish Srivastava, Geoffrey E. Hinton, A. Krizhevsky, Ilya Sutskever, R. Salakhutdinov  2014 | https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf | Dropout: a simple way to prevent neural networks from overfitting
+Diederik P. Kingma, Jimmy Ba  2015 | https://arxiv.org/pdf/1412.6980.pdf | Adam: A Method for Stochastic Optimization
+Sergey Ioffe, Christian Szegedy   2015 | http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43442.pdf | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
