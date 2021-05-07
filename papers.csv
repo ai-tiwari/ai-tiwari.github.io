@@ -20,10 +20,12 @@ Pascal Vincent, H. Larochelle, Isabelle Lajoie, Yoshua Bengio, Pierre-Antoine Ma
 Nitish Srivastava, R. Salakhutdinov 2012 | https://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf | Multimodal learning with deep Boltzmann machines
 A. Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton  2012 | https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf | ImageNet classification with deep convolutional neural networks
 Yoshua Bengio, Aaron C. Courville, Pascal Vincent Yoshua Bengio 2013 | https://arxiv.org/pdf/1206.5538.pdf | Representation Learning: A Review and New Perspectives
+I. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, S. Ozair, Aaron C. Courville, Yoshua Bengio  | https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf |  Generative Adversarial Nets  
 Nitish Srivastava, Geoffrey E. Hinton, A. Krizhevsky, Ilya Sutskever, R. Salakhutdinov  2014 | https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf | Dropout: a simple way to prevent neural networks from overfitting
 Ross B. Girshick, J. Donahue, Trevor Darrell, J. Malik 2014 | https://arxiv.org/pdf/1311.2524.pdf |  Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation 
 Matthew D. Zeiler, R. Fergus 2014 | https://arxiv.org/pdf/1311.2901.pdf | Visualizing and Understanding Convolutional Networks 
 Ilya Sutskever, Oriol Vinyals, Quoc V. Le  2014 |  https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf | Sequence to Sequence Learning with Neural Networks 
+Kaiming He, X. Zhang, Shaoqing Ren, Jian Sun  2015 | https://arxiv.org/pdf/1406.4729.pdf | Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition 
 Diederik P. Kingma, Jimmy Ba  2015 | https://arxiv.org/pdf/1412.6980.pdf | Adam: A Method for Stochastic Optimization
 Sergey Ioffe, Christian Szegedy   2015 | http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43442.pdf | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 Kaiming He, X. Zhang, Shaoqing Ren, Jian Sun  2015 | https://arxiv.org/pdf/1502.01852.pdf | Delving Deep into Rectifiers
