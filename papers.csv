@@ -27,6 +27,8 @@ Ilya Sutskever, Oriol Vinyals, Quoc V. Le  2014 |  https://papers.nips.cc/paper/
 Diederik P. Kingma, Jimmy Ba  2015 | https://arxiv.org/pdf/1412.6980.pdf | Adam: A Method for Stochastic Optimization
 Sergey Ioffe, Christian Szegedy   2015 | http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43442.pdf | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 Kaiming He, X. Zhang, Shaoqing Ren, Jian Sun  2015 | https://arxiv.org/pdf/1502.01852.pdf | Delving Deep into Rectifiers
+Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio  | https://arxiv.org/pdf/1409.0473.pdf | Neural Machine Translation by Jointly Learning to Align and Translate 
+Kyunghyun Cho, B. V. Merrienboer, Dzmitry Bahdanau, Yoshua Bengio  | https://arxiv.org/pdf/1409.1259.pdf | On the Properties of Neural Machine Translation: Encoder-Decoder Approaches 
 Ross B. Girshick  2015 | https://arxiv.org/pdf/1504.08083.pdf | Fast R-CNN
 Christian Szegedy, W. Liu, Y. Jia, Pierre Sermanet, Scott E. Reed, Dragomir Anguelov, D. Erhan, V. Vanhoucke, Andrew Rabinovich 2015 |  https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf | Going Deeper with Convolution
 Shaoqing Ren, Kaiming He, Ross B. Girshick, J. Sun  2016 | https://arxiv.org/pdf/1506.01497.pdf | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
