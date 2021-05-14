@@ -17,6 +17,8 @@ Analog Memories in a Balanced Rate-Based Network of E-I Neurons 5
 Efficient Partial Monitoring with Prior Information 13
 Near-optimal Reinforcement Learning in Factored MDPs 64
 Robust Kernel Density Estimation by Scaling and Projection in Hilbert Space , 5
+Extracting Latent Structure From Multiple Interacting Neural Populations , 24
+Robust Kernel Density Estimation by Scaling and Projection in Hilbert Space , 5
 Extracting Certainty from Uncertainty: Transductive Pairwise Classification from Pairwise Similarities , 3
 Diverse Sequential Subset Selection for Supervised Video Summarization , 337
 Simultaneous Model Selection and Optimization through Parameter-free Stochastic Learning , 83
@@ -24,3 +26,11 @@ On the Number of Linear Regions of Deep Neural Networks , 883
 Model-based Reinforcement Learning and the Eluder Dimension , 77
 A Wild Bootstrap for Degenerate Kernel Tests , 44
 Extracting Latent Structure From Multiple Interacting Neural Populations , 24
+Variational Gaussian Process State-Space Models , 124
+Multi-View Perceptron: a Deep Model for Learning Face Identity and View Representations , 237
+Global Belief Recursive Neural Networks , 53
+Parallel Sampling of HDPs using Sub-Cluster Splits , 12
+Recursive Inversion Models for Permutations , 16
+Active Learning and Best-Response Dynamics , 5
+Multilabel Structured Output Learning with Random Spanning Trees of Max-Margin Markov Networks , 8
+Identifying and attacking the saddle point problem in high-dimensional non-convex optimization , 1139
