@@ -34,3 +34,46 @@ Recursive Inversion Models for Permutations , 16
 Active Learning and Best-Response Dynamics , 5
 Multilabel Structured Output Learning with Random Spanning Trees of Max-Margin Markov Networks , 8
 Identifying and attacking the saddle point problem in high-dimensional non-convex optimization , 1139
+PEWA: Patch-based Exponentially Weighted Aggregation for image denoising , 19
+A Safe Screening Rule for Sparse Logistic Regression , 50
+Weakly-supervised Discovery of Visual Pattern Configurations , 160
+Deep Networks with Internal Selective Attention through Feedback Connections , 241
+Tight Bounds for Influence in Diffusion Networks and Application to Bond Percolation and Epidemiology , 24
+A Bayesian model for identifying hierarchically organised states in neural population activity , 8
+Deep Convolutional Neural Network for Image Deconvolution , 737
+Attentional Neural Network: Feature Selection Using Cognitive Feedback , 51
+The Blinded Bandit: Learning with Adaptive Feedback , 3
+Zero-shot recognition with unreliable attributes , 269
+Communication Efficient Distributed Machine Learning with the Parameter Server , 423
+Beyond the Birkhoff Polytope: Convex Relaxations for Vector Permutation Problems , 32
+Deconvolution of High Dimensional Mixtures via Boosting, with Application to Diffusion-Weighted MRI of Human Brain , 2
+On Iterative Hard Thresholding Methods for High-dimensional M-Estimation , 175
+Bayesian Sampling Using Stochastic Gradient Thermostats , 195
+Encoding High Dimensional Local Features by Sparse Coding Based Fisher Vectors , 91
+Efficient learning by implicit exploration in bandit problems with side observations , 76
+An Integer Polynomial Programming Based Framework for Lifted MAP Inference , 10
+Hardness of parameter estimation in graphical models , 27
+On the Information Theoretic Limits of Learning Ising Models , 39
+Projecting Markov Random Field Parameters for Fast Mixing , 10
+A Boosting Framework on Grounds of Online Learning , 3
+Near-Optimal Density Estimation in Near-Linear Time Using Variable-Width Histograms , 43
+Efficient Minimax Signal Detection on Graphs , 16
+Magnitude-sensitive preference formation` , 7
+Accelerated Mini-batch Randomized Block Coordinate Descent Method , 65
+Multiscale Fields of Patterns , 8
+How hard is my MDP?" The distribution-norm to the rescue" , 37
+Spectral Learning of Mixture of Hidden Markov Models , 15
+Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation , 1260
+Tree-structured Gaussian Process Approximations , 42
+Optimal decision-making with time-varying evidence reliability , 14
+An Autoencoder Approach to Learning Bilingual Word Representations , 311
+Testing Unfaithful Gaussian Graphical Models , 5
+Deep Recursive Neural Networks for Compositionality in Language , 289
+Signal Aggregate Constraints in Additive Factorial HMMs, with Application to Energy Disaggregation , 60
+Poisson Process Jumping between an Unknown Number of Rates: Application to Neural Spike Data , 4
+Low-Rank Time-Frequency Synthesis , 15
+Spike Frequency Adaptation Implements Anticipative Tracking in Continuous Attractor Neural Networks , 13
+Learning to Optimize via Information-Directed Sampling , 122
+Distributed Estimation, Information Loss and Exponential Families , 44
+A* Sampling , 32438
+Consistent Binary Classification with Generalized Performance Metrics , 110
