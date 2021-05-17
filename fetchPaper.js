@@ -1,5 +1,5 @@
 function classic(){
-      document.onreadystatechange = function () {
+      
       if (document.readyState == "complete") {
           var xmlHttp = new XMLHttpRequest();
 
@@ -24,5 +24,5 @@ function classic(){
         xmlHttp.open("GET","papers.csv",false);
         xmlHttp.send();
       }
-  }
+  
 }
