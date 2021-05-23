@@ -94,6 +94,7 @@ border: none;
 -moz-appearance: none;
 appearance: none;
 padding: inherit;
+cursor: pointer;
 }
 
 
