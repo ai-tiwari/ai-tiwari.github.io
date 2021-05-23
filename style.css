@@ -78,4 +78,22 @@ vertical-align: middle;
  white-space: normal;
 }
 
+select{
+background-color: inherit;
+color: black;
+color: black;
+font-size: medium;
+letter-spacing: 0.08em;
+width: inherit;
+font-family: inherit;
+font-weight: inherit;
+-webkit-appearance: none;
+text-indent: 2px;
+text-overflow: ellipsis;
+border: none;
+-moz-appearance: none;
+appearance: none;
+padding: inherit;
+}
+
 
