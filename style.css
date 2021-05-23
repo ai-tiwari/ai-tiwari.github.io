@@ -81,6 +81,24 @@ vertical-align: middle;
 select{
 background-color: inherit;
 color: black;
+font-size: medium;
+letter-spacing: 0.08em;
+width: inherit;
+font-family: inherit;
+font-weight: inherit;
+-webkit-appearance: none;
+text-indent: 2px;
+text-overflow: ellipsis;
+border: none;
+-moz-appearance: none;
+appearance: none;
+padding: inherit;
+cursor: pointer;
+}
+
+select::after{
+background-color: inherit;
+color: black;
 color: black;
 font-size: medium;
 letter-spacing: 0.08em;
@@ -96,5 +114,6 @@ appearance: none;
 padding: inherit;
 cursor: pointer;
 }
+
 
 
