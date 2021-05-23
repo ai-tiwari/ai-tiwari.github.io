@@ -93,7 +93,7 @@ padding: inherit;
 cursor: pointer;
 }
 
-select::after{
+.select{
 background-color: inherit;
 color: black;
 font-size: medium;
