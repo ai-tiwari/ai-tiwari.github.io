@@ -113,7 +113,7 @@ ul.dropdowne{
   opacity:0;
 }
 
-a.dropdowne.active ~ ul.dropdowne {
+a.dropdowne:active ~ ul.dropdowne {
   opacity:1;
 }
 
