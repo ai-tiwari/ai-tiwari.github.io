@@ -114,8 +114,9 @@ ul.dropdowne{
   padding: 0px;
 }
 
-a.dropdowne:active ~ ul.dropdowne {
+a.dropdowne:hover ~ ul.dropdowne {
   opacity:1;
+  cursor: pointer;
 }
 
 
