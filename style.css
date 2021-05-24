@@ -108,11 +108,13 @@ padding: inherit;
 cursor: pointer;
 }
 
-a.dropdowne{
-  opacity:0;
+ul.dropdowne{
   position: absolute;
 }
-a.dropdowne.active{
+ul.dropdowne.active{
+opacity:0;
+}
+a.dropdowne.active ~ ul.dropdowne {
   opacity:1;
 }
 
