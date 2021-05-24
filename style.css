@@ -108,14 +108,16 @@ padding: inherit;
 cursor: pointer;
 }
 
-ul.dropdowne{
+ul li ul.dropdowne{
   position: absolute;
-  opacity:0;
+  display:none;
+  z-index:1;
   padding: 0px;
+  cursor: pointer
 }
 
-a.dropdowne:hover ~ ul.dropdowne {
-  opacity:1;
+ul li:hover ul.dropdowne{
+  display:block;
   cursor: pointer;
 }
 
