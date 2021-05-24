@@ -110,10 +110,9 @@ cursor: pointer;
 
 ul.dropdowne{
   position: absolute;
+  opacity:0;
 }
-ul.dropdowne.active{
-opacity:0;
-}
+
 a.dropdowne.active ~ ul.dropdowne {
   opacity:1;
 }
