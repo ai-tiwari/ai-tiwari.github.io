@@ -57,12 +57,6 @@ hr{
     background-color: currentColor;
 }
 
-.nav-menu li {
-	margin-right: 60px;
-/* 	float:left; */
-	
-}
-
 .col-md-4{
 margin-left: 30px;
 width: 400px;
@@ -119,12 +113,17 @@ ul li ul.dropdowne{
 ul li:hover ul.dropdowne{
   display:block;
   cursor: pointer;
+  padding-top: 30px;
+  background-color: lavendar;
+  z-index:1;
+  position: absolute;
 }
 
 ul.nav-menu li{
   margin-right: 30px;
   margin-left: 30px;
 }
+
 
 
 
