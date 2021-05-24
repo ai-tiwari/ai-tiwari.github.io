@@ -108,5 +108,13 @@ padding: inherit;
 cursor: pointer;
 }
 
+a.dropdown{
+  opacity:0;
+  position: absolute;
+}
+a.dropdown.active{
+  opacity:1;
+}
+
 
 
