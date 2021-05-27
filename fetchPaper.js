@@ -13,7 +13,7 @@ function classic(){
                      divi.className = "paper";
                      divi.id = "x"+i;
                      divi.innerHTML = '<a id = "a'+i+'" class="col-md-4">'+line[0]+ '</a>';
-                     divi.innerHTML += '<a id = "b'+i+'"class="col-md-8" href="'+line[1] +'">' + line[2] + '</a> ';
+                     divi.innerHTML += '<a id = "b'+i+'"class="col-md-8" href="'+line[1] +'" target="_blank">' + line[2] + '</a> ';
                      document.querySelector(".element").appendChild(divi);
                      var brline = document.createElement('hr');
                      document.querySelector(".element").appendChild(brline);
