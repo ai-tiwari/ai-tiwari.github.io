@@ -61,16 +61,16 @@ hr{
 margin-left: 30px;
 width: 200px;
 display: inline-block;
-text-overflow: ellipsis;
-overflow: hidden;
+/* text-overflow: ellipsis;
+overflow: hidden; */
 white-space: nowrap;
 vertical-align: middle;
 }
 
-.col-md-4:hover{
+/* .col-md-4:hover{
  overflow:visible;
  white-space: normal;
-}
+} */
 
 ul li ul.dropdowne{
   position: absolute;
