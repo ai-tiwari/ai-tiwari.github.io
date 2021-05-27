@@ -1,42 +1,42 @@
-1950 | https://www.csee.umbc.edu/courses/471/papers/turing.pdf | Computing Machinery and Intelligence
-1957 | https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf | The Perceptron — A Perceiving and Recognizing Automaton
-1986 | https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf | Learning Representaion by back-propagating errors
-1989 | https://www.cs.cmu.edu/~epxing/Class/10715/reading/Kornick_et_al.pdf | MultiLayer Feedforward Networks are Universal Approximators
-1990 | https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf | A Logical Calculus of the ideas emanent in Nervous Activity
-1997 | https://www.semanticscholar.org/paper/Long-Short-Term-Memory-Hochreiter-Schmidhuber/44d2abe2175df8153f465f6c39b68b76a0d40ab9 | Long Short-Term Memory
-1998 | http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf | Gradient-based Learning Applied to Document Recognition
+1950 , https://www.csee.umbc.edu/courses/471/papers/turing.pdf , Computing Machinery and Intelligence
+1957 , https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf , The Perceptron — A Perceiving and Recognizing Automaton
+1986 , https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf , Learning Representaion by back-propagating errors
+1989 , https://www.cs.cmu.edu/~epxing/Class/10715/reading/Kornick_et_al.pdf , MultiLayer Feedforward Networks are Universal Approximators
+1990 , https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf , A Logical Calculus of the ideas emanent in Nervous Activity
+1997 , https://www.semanticscholar.org/paper/Long-Short-Term-Memory-Hochreiter-Schmidhuber/44d2abe2175df8153f465f6c39b68b76a0d40ab9 , Long Short-Term Memory
+1998 , http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf , Gradient-based Learning Applied to Document Recognition
  2002 , http://www.cs.toronto.edu/~fritz/absps/tr00-004.pdf , Training Products of Experts by Minimizing Contrastive Divergence
- 2006 | https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf | A Fast Learning Algorithm for Deep Belief Nets
- 2006 | https://www.cs.toronto.edu/~hinton/science.pdf | Reducing the Dimensionality of Data with Neural Networks
-  2006 | http://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/notes/hefny_Greedy.pdf | Greedy Layer-Wise Training of Deep Networks
- 2007 | https://www.cs.toronto.edu/~hinton/science.pdf | Learning Deep Architectures for AI
-2007 | https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf | Restricted Boltzmann machines for collaborative filtering
-2008 | https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf | Extracting and composing robust features with denoising autoencoders
-   2009 | http://robotics.stanford.edu/~ang/papers/icml09-ConvolutionalDeepBeliefNetworks.pdf | Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations
-2010 | https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf | Learning Multiple Layers of Features from Tiny Images 
- 2010 | https://www.cs.toronto.edu/~fritz/absps/reluICML.pdf | Rectified Linear Units Improve Restricted Boltzmann Machines
-   2010 | http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf | Understanding the difficulty of training deep feedforward neural networks
-   2010 | https://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf | Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network
- 2012 | https://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf | Multimodal learning with deep Boltzmann machines
-  2012 | https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf | ImageNet classification with deep convolutional neural networks
- 2013 | https://arxiv.org/pdf/1206.5538.pdf | Representation Learning: A Review and New Perspectives
-2014 | https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf |  Generative Adversarial Nets  
- 2014 | https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf | Dropout: a simple way to prevent neural networks from overfitting
-2014 | https://arxiv.org/pdf/1311.2524.pdf |  Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation 
- 2014 | https://arxiv.org/pdf/1311.2901.pdf | Visualizing and Understanding Convolutional Networks 
-  2014 |  https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf | Sequence to Sequence Learning with Neural Networks 
- 2015 | https://arxiv.org/pdf/1406.4729.pdf | Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition 
- 2015 | https://arxiv.org/pdf/1412.6980.pdf | Adam: A Method for Stochastic Optimization
-   2015 | http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43442.pdf | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
-2015 | https://arxiv.org/pdf/1502.01852.pdf | Delving Deep into Rectifiers
-2015 | https://arxiv.org/pdf/1409.0473.pdf | Neural Machine Translation by Jointly Learning to Align and Translate 
-2015 | https://arxiv.org/pdf/1409.1259.pdf | On the Properties of Neural Machine Translation: Encoder-Decoder Approaches 
-2015 | https://arxiv.org/pdf/1504.08083.pdf | Fast R-CNN
- 2015 |  https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf | Going Deeper with Convolution
-2016 | https://arxiv.org/pdf/1511.06434.pdf; | Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
-2016 | https://arxiv.org/pdf/1506.01497.pdf | Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
- 2016 | https://arxiv.org/pdf/1512.02325.pdf | SSD: Single Shot MultiBox Detector
-2016 | https://arxiv.org/pdf/1512.03385.pdf | Deep Residual Learning for Image Recognition 
-2016| https://arxiv.org/pdf/1603.05027.pdf | Identity Mappings in Deep Residual Networks 
- 2017 | https://arxiv.org/pdf/1608.06993.pdf | Densely Connected Convolutional Networks 
- 2017| https://arxiv.org/pdf/1706.03762.pdf | Attention Is All You Need
+ 2006 , https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf , A Fast Learning Algorithm for Deep Belief Nets
+ 2006 , https://www.cs.toronto.edu/~hinton/science.pdf , Reducing the Dimensionality of Data with Neural Networks
+  2006 , http://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/notes/hefny_Greedy.pdf , Greedy Layer-Wise Training of Deep Networks
+ 2007 , https://www.cs.toronto.edu/~hinton/science.pdf , Learning Deep Architectures for AI
+2007 , https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf , Restricted Boltzmann machines for collaborative filtering
+2008 , https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf , Extracting and composing robust features with denoising autoencoders
+   2009 , http://robotics.stanford.edu/~ang/papers/icml09-ConvolutionalDeepBeliefNetworks.pdf , Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations
+2010 , https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf , Learning Multiple Layers of Features from Tiny Images 
+ 2010 , https://www.cs.toronto.edu/~fritz/absps/reluICML.pdf , Rectified Linear Units Improve Restricted Boltzmann Machines
+   2010 , http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf , Understanding the difficulty of training deep feedforward neural networks
+   2010 , https://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf , Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network
+ 2012 , https://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf , Multimodal learning with deep Boltzmann machines
+  2012 , https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf , ImageNet classification with deep convolutional neural networks
+ 2013 , https://arxiv.org/pdf/1206.5538.pdf , Representation Learning: A Review and New Perspectives
+2014 , https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf ,  Generative Adversarial Nets  
+ 2014 , https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf , Dropout: a simple way to prevent neural networks from overfitting
+2014 , https://arxiv.org/pdf/1311.2524.pdf ,  Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation 
+ 2014 , https://arxiv.org/pdf/1311.2901.pdf , Visualizing and Understanding Convolutional Networks 
+  2014 ,  https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf , Sequence to Sequence Learning with Neural Networks 
+ 2015 , https://arxiv.org/pdf/1406.4729.pdf , Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition 
+ 2015 , https://arxiv.org/pdf/1412.6980.pdf , Adam: A Method for Stochastic Optimization
+   2015 , http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43442.pdf , Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+2015 , https://arxiv.org/pdf/1502.01852.pdf , Delving Deep into Rectifiers
+2015 , https://arxiv.org/pdf/1409.0473.pdf , Neural Machine Translation by Jointly Learning to Align and Translate 
+2015 , https://arxiv.org/pdf/1409.1259.pdf , On the Properties of Neural Machine Translation: Encoder-Decoder Approaches 
+2015 , https://arxiv.org/pdf/1504.08083.pdf , Fast R-CNN
+ 2015 ,  https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf , Going Deeper with Convolution
+2016 , https://arxiv.org/pdf/1511.06434.pdf; , Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+2016 , https://arxiv.org/pdf/1506.01497.pdf , Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
+ 2016 , https://arxiv.org/pdf/1512.02325.pdf , SSD: Single Shot MultiBox Detector
+2016 , https://arxiv.org/pdf/1512.03385.pdf , Deep Residual Learning for Image Recognition 
+2016, https://arxiv.org/pdf/1603.05027.pdf , Identity Mappings in Deep Residual Networks 
+ 2017 , https://arxiv.org/pdf/1608.06993.pdf , Densely Connected Convolutional Networks 
+ 2017, https://arxiv.org/pdf/1706.03762.pdf , Attention Is All You Need
