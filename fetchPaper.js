@@ -8,7 +8,7 @@ function classic(){
                  // Typical action to be performed when the document is ready:
                     var lines  = xmlHttp.responseText.split("\n");
                    for(var i=0;i<lines.length; ++i){
-                   line = lines[i].split("|");
+                   line = lines[i].split(",");
                      var divi = document.createElement('div');
                      divi.className = "paper";
                      divi.id = "x"+i;
