@@ -31,12 +31,19 @@ function nips(){
   if (document.readyState == "complete") {
       var xmlHttp = new XMLHttpRequest();
 
-        xmlHttp.onreadystatechange = function() {
+      var conference = document.getElementById("conf");
+      conference = conference.value;
+      var year = document.getElementById("year");
+      year = year.value;
+      var conYear = conference + year + ".csv"
+      xmlHttp.open("GET",conYear,false);
+      xmlHttp.send();
+
           if (this.readyState == 4 && this.status == 200) {
              // Typical action to be performed when the document is ready:
                 var lines  = xmlHttp.responseText.split("\n");
                for(var i=0;i<lines.length; ++i){
-               line = lines[i].split(",");
+               var line = lines[i].split(",");
                  var divi = document.createElement('div');
                  divi.className = "paper";
                  divi.id = "x"+i;
@@ -47,9 +54,8 @@ function nips(){
                }
 
              }
-          };
-    xmlHttp.open("GET","nips14.csv",false);
-    xmlHttp.send();
+          
+    
   }
 
 }

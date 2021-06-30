@@ -3,14 +3,11 @@
   <title>Deep Learning for Everyone </title>
   <link rel="stylesheet" type="text/css" href="style.css"/>
   <script src="fetchPaper.js"></script>
-  <script>document.onreadystatechange = function () {
-    nips();
-    } </script>
 </head>
 <body>
   <header>
     <nav>
-      <ul class="nav-menu">          
+      <ul class="nav-menu">
         <li>
           <a href="index.html">Home</a>
         </li>
@@ -18,25 +15,24 @@
           <a href="history.html">History</a>
         </li>
         <li>
-          <a href="javascript:void(0)" class="dropdowne">NIPS</a>
-          <ul class="dropdowne">
-                      <li><a href="nips14.html">2014</a></li>
-                       
-           </ul>
-        </li>
-         <li>
-            <a href="ICML.html">ICML</a>
-        </li>
-         <li>
-            <a href="ICLR.html">ICLR</a>
+          <a href="nips14.html" >Papers</a>
         </li>
        </ul>
      </nav>
-</header> 
+</header>
   <main>
     <div class="container">
       <div class="element">
-        <h2 class="col-md-4">NIPS 2014</h2>
+        <h4 class="col-md-4">Search Papers:</h4>
+        <select name="conference" class = "dropdowne" id="conf">
+          <option value="nips">NIPS</option>
+        </select>
+
+        <select name="year" id="year">
+          <option value="14">2014</option>
+        </select>
+
+        <button class="button" onclick="nips()">Go</button>
        <hr>
       </div>
     </div>
