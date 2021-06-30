@@ -39,7 +39,7 @@ function nips(){
       xmlHttp.open("GET",conYear,false);
       xmlHttp.send();
 
-          if (this.readyState == 4 && this.status == 200) {
+      
              // Typical action to be performed when the document is ready:
                 var lines  = xmlHttp.responseText.split("\n");
                for(var i=0;i<lines.length; ++i){
@@ -53,7 +53,7 @@ function nips(){
                  document.querySelector(".element").appendChild(brline);
                }
 
-             }
+             
           
     
   }
