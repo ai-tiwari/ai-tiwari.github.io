@@ -93,6 +93,7 @@ vertical-align: middle;
 ul.nav-menu li{
   /* padding-right: 30px;
   padding-left: 30px; */
+  min-width: 80px;
   max-width:135px;
   height: 40px;
   padding-top: 20px;
