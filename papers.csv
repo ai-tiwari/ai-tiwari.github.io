@@ -3,6 +3,8 @@
 1986 , https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf , Learning Representaion by back-propagating errors
 1989 , https://www.cs.cmu.edu/~epxing/Class/10715/reading/Kornick_et_al.pdf , MultiLayer Feedforward Networks are Universal Approximators
 1990 , https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf , A Logical Calculus of the ideas emanent in Nervous Activity
+1990, https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=58325&casa_token=M9udlOkNPfAAAAAA:8C91hrG3YGp0io30IpsZD3q3NRAB5gPZiIGx-tVbzi-Gxlr6jU-0Lhm9TAuZKb6QAFQ4ZzGjwA, Self Organizing Map
+1995, http://www.inference.org.uk/mackay/network.pdf , A review of practical Bayesian methods for supervised neural networks
 1997 , https://www.semanticscholar.org/paper/Long-Short-Term-Memory-Hochreiter-Schmidhuber/44d2abe2175df8153f465f6c39b68b76a0d40ab9 , Long Short-Term Memory
 1998 , http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf , Gradient-based Learning Applied to Document Recognition
  2002 , http://www.cs.toronto.edu/~fritz/absps/tr00-004.pdf , Training Products of Experts by Minimizing Contrastive Divergence
