@@ -70,20 +70,18 @@ vertical-align: middle;
 } */
 
 .dropdowne{
-  color: #12a7d6;
-    padding: 8px 16px;
+  color: black;
+    padding: 3px 10px;
     border: 1px solid transparent;
-    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
-    margin-right: 20px;
+    margin-right: 25px;
     cursor: pointer;
 }
 
 .button{
-  color: #12a7d6;
-    padding: 8px 16px;
+  color: black;
+    padding: 5px 10px;
     border: 1px solid transparent;
-    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
-    margin-right: 20px;
+    margin-right: 25px;
     cursor: pointer;
 }
 
