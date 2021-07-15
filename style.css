@@ -25,6 +25,11 @@ overflow: auto;
   float: left;
   line-height: 1.5;
   color: mediumslateblue;
+  border-color: #cef2e0;
+  background-color: f5fffa;
+  margin-right: 5px;
+  border-width: 1px;
+  border-style: solid;
 }
 ul {
 	list-style: none;	
