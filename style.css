@@ -85,12 +85,10 @@ vertical-align: middle;
     cursor: pointer;
 }
 
-
-
-
 ul.nav-menu li{
   padding-right: 15px;
   /*padding-left: 30px; */
+  border-right : 1px solid #ccc;
   height: 40px;
   padding-top: 20px;
 }
