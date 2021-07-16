@@ -27,14 +27,12 @@ overflow: auto;
   color: mediumslateblue;
 }
 .elemento{
-  float: left;
-  line-height: 1.5;
-  color: mediumslateblue;
-  border-color: #cef2e0;
-  background-color: f5fffa;
-  margin-right: 5px;
-  border-width: 1px;
-  border-style: solid;
+    float: left;
+    line-height: 1.5;
+    color: mediumslateblue;
+    padding-right: 5px;
+    border-right-width: 1px;
+    border-right-style: solid;
 }
 ul {
 	list-style: none;	
