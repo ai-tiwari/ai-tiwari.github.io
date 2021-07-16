@@ -52,6 +52,10 @@ a{
 	margin: 0.9rem;
 }
 
+.elemento hr:last-child {
+  display:none;
+} 
+
 hr{
     opacity: 0.0875;
     border: 0;
